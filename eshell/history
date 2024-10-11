@@ -1,0 +1,128 @@
+make clean
+sudo make install
+make clean
+sudo make install
+make clean
+sudo make install
+cd ..
+cd ..
+cd 
+sent acciones.txt
+sent acciones.txt
+cd sent
+make clean
+sudo make install
+cd 
+sent acciones.txt
+sent acciones.txt
+sent acciones.txt
+sent acciones.txt
+sent acciones.txt
+EXIT
+exit
+yt-dlp -f 251 https://www.youtube.com/watch?v=UsR08cY8k0A
+ffmpeg -i JVKE\ -\ golden\ hour\ \(Official\ Lyric\ Video\)\ \[UsR08cY8k0A\].webm -b:a 128k GoldenHour.ogg
+exit
+make clean
+sudo make install
+exit
+mv La\ ￼\ Cangurer￼a\ P3\ de\ Netosol\ lista\ para\ Halloween…\ Cuando\ vemos\ la\ de\ los\ Manatíes？\ \[n5ZTN-e4lp0\].webm Cangurera.webm
+ls
+cd
+yt-dlp https://www.youtube.com/watch?v=RMdWWagAAZI
+ffmpeg -i wait\ what\ sound\ effect\ \[RMdWWagAAZI\].webm -vn waitWhat.ogg
+mpv waitWhat.ogg
+yt-dlp -f 251 https://www.youtube.com/watch?v=HWZhoK-2cG8
+ffmpeg -i RAUW\ ALEJANDRO\ ｜｜\ BZRP\ Music\ Sessions\ \#56\ \[HWZhoK-2cG8\].webm -b:a 128k RauwBizarrap
+ffmpeg -i RAUW\ ALEJANDRO\ ｜｜\ BZRP\ Music\ Sessions\ \#56\ \[HWZhoK-2cG8\].webm -b:a 128k RauwBizarrap.ogg
+exit
+yt-dlp --cookies-from-browser firefox https://www.instagram.com/p/Ct-g5dzxh57se66mg_UltIJC4evwItD4zBKbeY0/
+mpv Video\ by\ llamap3\ \[Ct-g5dzxh57se66mg_UltIJC4evwItD4zBKbeY0\].mp4
+mpv Video\ by\ llamap3\ \[Ct-g5dzxh57se66mg_UltIJC4evwItD4zBKbeY0\].mp4
+mpv Video\ by\ llamap3\ \[Ct-g5dzxh57se66mg_UltIJC4evwItD4zBKbeY0\].mp4
+exit
+yt-dlp --cookies-from-browser firefox https://www.instagram.com/p/CuCqoOxs2E_OAXtQSA8Djb0JZV6uM3zenH8D0U0/
+mpv Video\ by\ llamap3\ \[CuCqoOxs2E_OAXtQSA8Djb0JZV6uM3zenH8D0U0\].mp4
+mv Video\ by\ llamap3\ \[CuCqoOxs2E_OAXtQSA8Djb0JZV6uM3zenH8D0U0\].mp4 ExPersona.mp4
+clear
+exit
+yt-dlp --cookies-from-browser firefox https://www.instagram.com/p/CyRw18PuuGGHCcMgaAouuc2fRdvAu1E1UUeqwU0/
+ffmpeg -i Video\ by\ llamap3\ \[CyRw18PuuGGHCcMgaAouuc2fRdvAu1E1UUeqwU0\].mp4 -vn -b:a 64k Llama20231011.ogg
+mpv Llama20231011.ogg
+yt-dlp https://www.youtube.com/watch?v=MkvCBfE7gmM
+openshot-qt CREISI\ FOR\ THE\ CHISME\ BORREN\ SU\ CANAL\ \[MkvCBfE7gmM\].webm
+ffmpeg -i CREISI\ FOR\ THE\ CHISME\ BORREN\ SU\ CANAL\ \[MkvCBfE7gmM\].webm creisi.mp4
+encoder         : Lavc58.134.100 aacterminado (killed)
+rm creisi.mp4
+pandoc Mariana.org -o mariana.html
+exit
+htop
+exit
+python3
+clear
+exit
+python3
+exit
+a = 5978+28459
+python3
+exitr
+exit
+exit
+pandoc -o calcetin.docx Calcetin.md
+exit
+pandoc -o Mariana.odt Mariana.org
+exit
+yt-dlp --cookies-from-browser firefox https://www.youtube.com/watch?v=D7bF2vZNG1Q
+exit
+./hola
+vim hola.c
+clear
+exit
+mkdir holas
+mv hola* holas
+mv hola* holas
+ls hola*
+rm holas
+rmdir holas
+cd holas
+ls
+cd ..
+exit
+cd Imágenes/
+ls
+cd ..
+exit
+sent presQuehice.txt
+sent presQuehice.txt
+sent presQuehice.txt
+sent presQuehice.txt
+sent presQuehice.txt
+sent presQuehice.txt
+sent presQuehice.txt
+sent presQuehice.txt
+exit
+git remote add origin https://gitlab.com/vimlatexespanol/emacs-desde-cero.git
+exit
+git clone https://gitlab.com/vimlatexespanol/emacs-desde-cero.git
+ls
+cd emacs-desde-cero/
+ls
+exit
+git config user.name
+git config user.name "Vim y LaTeX en español"
+exit
+git config --local user.name "No Soy Anónimo"
+exit
+git config --local user.name "No Soy Anónimo"
+git config --local user.email "nosoyanonimo@airmail.cc"
+git config --local user.name
+exit
+git config user.name
+git config user.email
+git config --local user.email "nosoyanonimo@airmail.cc"
+exit
+git user.name --local "NoSoyAnonimo"
+git config user.name --local "NoSoyAnonimo"
+git config user.email --local "nosoyanonimo@airmail.cc"
+git config user.email --local "enemigosdekarmatron@gmail.com"
+exit
