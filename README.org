@@ -1,0 +1,5 @@
+#+title: Mi configuración de emacs desde cero
+
+Bueno, pues después de mucho batallar con emacs y todo eso, al fin puedo subir mi configuración de emacs que he hecho desde cero.
+
+Incluye modos como Markdown, plugins como magit y temas modus. 
